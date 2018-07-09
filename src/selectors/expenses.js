@@ -1,4 +1,4 @@
-import moment from 'moment';
+ import moment from 'moment';
 
 // Get visible expenses
 export default (expenses, { text, sortBy, startDate, endDate }) => {
